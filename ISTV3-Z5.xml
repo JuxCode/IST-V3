@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM ISTV3-Z5.dtd">
+<NEWSPAPER>
+  <ARTICLE author="Pera Peric" editor="Sima Simic" date="4/1/2020" edition="1st">
+    <HEADLINE>Headline</HEADLINE>
+    <BYLINE>Byline</BYLINE>
+    <LEAD>Lead</LEAD>
+    <BODY>Body</BODY>
+    <NOTES>&COPYRIGHT;&NEWSPAPER;&PUBLISHER;</NOTES>
+  </ARTICLE>
+</NEWSPAPER>

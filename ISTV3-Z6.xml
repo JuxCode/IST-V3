@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE fakultet SYSTEM ISTV3-Z6.dtd">
+<fakultet>
+  <student status="studira" indeks="NRT-111/18">
+    <osoba>
+      <ime>Pera</ime>
+      <prezime>Peric</prezime>
+      <mestoRodjenja>Beograd</mestoRodjenja>
+      <datumRodjenja>01.03.1999.</datumRodjenja>
+    </osoba>
+    <upisi>
+      <semestar broj="1" godina="2018" vrsta="budzet">
+      </semestar>
+    </upisi>
+  </student>
+</fakultet>

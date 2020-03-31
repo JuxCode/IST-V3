@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE AutoOglas SYSTEM ISTV3-Z4.dtd">
+<AutoOglas>
+  <Automobil>
+    <Proizvodjac>Ford</Proizvodjac>
+    <Model tip="">Focus</Model>
+    <Godiste>2003</Godiste>
+    <Farba tip="metalik">Siva</Farba>
+    <Zapremina_motora jedinica="ccm">1500</Zapremina_motora>
+    <Transmisija tip="auto">5</Transmisija>
+    <Gorivo tng="ne">benzin</Gorivo>
+    <Cena valuta="EUR">3600</Cena>
+    <Kontakt>064/789-1234</Kontakt>
+  </Automobil>
+</AutoOglas>

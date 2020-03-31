@@ -1,0 +1,30 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT AutoOglas (Automobil)+>
+
+<!ELEMENT Automobil (Proizvodjac,Model,Godiste,Farba,Zapremina_motora,
+                     Transmisija,Gorivo,Cena,Kontakt)>
+
+<!ELEMENT Proizvodjac (#PCDATA)>
+
+<!ELEMENT Model (#PCDATA)>
+<!ATTLIST Model tip CDATA #REQUIRED>
+
+<!ELEMENT Godiste (#PCDATA)>
+
+<!ELEMENT Farba (#PCDATA)>
+<!ATTLIST Farba tip CDATA #REQUIRED>
+
+<!ELEMENT Zapremina_motora (#PCDATA)>
+<!ATTLIST Zapremina_motora jedinica CDATA #REQUIRED>
+
+<!ELEMENT Transmisija (#PCDATA)>
+<!ATTLIST Transmisija tip CDATA #REQUIRED>
+
+<!ELEMENT Gorivo (#PCDATA)>
+<!ATTLIST Gorivo tng CDATA #REQUIRED>
+
+<!ELEMENT Cena (#PCDATA)>
+<!ATTLIST Cena valuta CDATA #REQUIRED>
+
+<!ELEMENT Kontakt (#PCDATA)>
